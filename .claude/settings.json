@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh repo view *)",
+      "Bash(gh api repos/*/readme)",
+      "Bash(wget *)",
+      "Bash(tar -xf *)",
+      "Bash(tar -zxvf *)",
+      "Bash(cp -r *)",
+      "Bash(cp *)",
+      "Bash(mkdir *)",
+      "Bash(mv *)",
+      "Bash(pip3 install *)",
+      "Bash(apt install *)",
+      "Bash(apt update *)",
+      "Bash(ros2 launch *)",
+      "Bash(ros2 run *)",
+      "Bash(ros2 topic *)",
+      "Bash(source *)",
+      "Bash(export *)",
+      "Bash(git clone *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(git checkout *)",
+      "Bash(git fetch *)",
+      "Bash(git pull *)",
+      "Bash(ln -s *)",
+      "Bash(cmake *)",
+      "Bash(make *)"
+    ]
+  }
+}
